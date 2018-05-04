@@ -1,6 +1,10 @@
 pico-8 cartridge // http://www.pico-8.com
 version 16
 __lua__
+-- transversion clone / remake
+-- by _flex from flexoft
+-- v1.0 (beta)
+-- 2018.
 --
 -- ______________________________________     _______________________________________
 -- ________                            \ |   / /
@@ -9,10 +13,6 @@ __lua__
 -- _  /   _  /   / /_/ /_  / / /(__  )__ |/ / /  __/  /   _(__  )_  / / /_/ /  / / /
 -- /_/    /_/    \__,_/ /_/ /_//____/ _____/  \___//_/    /____/ /_/  \____//_/ /_/
 -- 
--- transversion clone / remake
--- v1.0 (beta)
--- by _flex from flexoft
--- 2018.
 -- 
 
 -- global variables
